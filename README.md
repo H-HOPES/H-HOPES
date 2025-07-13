@@ -1,7 +1,5 @@
 <div align=center>	
 
-# Hi there 👋 My Name is HongPro
-  
 <h1 align=center> 🛠 Tech Stack 🛠 </h1>
 
 ![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) <br/>
